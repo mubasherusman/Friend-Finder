@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, googleMap!</string>
+    <string name="app_name">Friend Finder</string>
+    <string name="ViewMap">View Map</string>
+    <string name="signUpFormtitle">Signup Form</string>
+    <string name="signUpUsername">Username</string>
+    <string name="signUpemail">Email</string>
+    <string name="signUppassword">Password</string>
+    <string name="signUpName">Name</string>
+    <string name="signUpaddress">Address</string>
+    <string name="signUpphone">Phone</string>
+    <string name="signUpBtnText">Sign Up</string>
+    <string name="signInPassword">Password</string>
+    <string name="sinInUserName">User Name</string>
+    <string name="mapMarker">gpsMarker</string>
+    <string name="menu_add">Find Friends</string>
+    <string name="menu_location">Delete Friend</string>
+    <string name="menu_satellite">satellite</string>
+    <string name="menu_map">map</string>
+    <string name="addFriendSearchUserName">Friends User Name</string>
+    <string name="notifications">Notifications</string>
+
+</resources>
